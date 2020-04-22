@@ -1,0 +1,396 @@
+# Configuration file
+
+####################
+# dimensionmanager
+####################
+
+dimensionmanager {
+    I:StorageCells <
+        4
+        5
+        6
+        7
+        8
+        9
+        10
+        11
+        12
+        13
+        14
+        15
+        16
+        17
+        18
+        19
+        20
+        21
+        22
+        23
+        24
+        25
+        26
+        27
+        28
+        29
+        30
+        31
+        32
+        33
+        34
+        35
+     >
+}
+
+
+####################
+# storagecell10
+####################
+
+storagecell10 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell11
+####################
+
+storagecell11 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell12
+####################
+
+storagecell12 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell13
+####################
+
+storagecell13 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell14
+####################
+
+storagecell14 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell15
+####################
+
+storagecell15 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell16
+####################
+
+storagecell16 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell17
+####################
+
+storagecell17 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell18
+####################
+
+storagecell18 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell19
+####################
+
+storagecell19 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell20
+####################
+
+storagecell20 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell21
+####################
+
+storagecell21 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell22
+####################
+
+storagecell22 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell23
+####################
+
+storagecell23 {
+    I:scaleX=99
+    I:scaleY=96
+    I:scaleZ=98
+}
+
+
+####################
+# storagecell24
+####################
+
+storagecell24 {
+    I:scaleX=99
+    I:scaleY=96
+    I:scaleZ=98
+}
+
+
+####################
+# storagecell25
+####################
+
+storagecell25 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell26
+####################
+
+storagecell26 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell27
+####################
+
+storagecell27 {
+    I:scaleX=99
+    I:scaleY=96
+    I:scaleZ=98
+}
+
+
+####################
+# storagecell28
+####################
+
+storagecell28 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell29
+####################
+
+storagecell29 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell30
+####################
+
+storagecell30 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell31
+####################
+
+storagecell31 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell32
+####################
+
+storagecell32 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell33
+####################
+
+storagecell33 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell34
+####################
+
+storagecell34 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell35
+####################
+
+storagecell35 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell4
+####################
+
+storagecell4 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell5
+####################
+
+storagecell5 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell6
+####################
+
+storagecell6 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+
+####################
+# storagecell7
+####################
+
+storagecell7 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell8
+####################
+
+storagecell8 {
+    I:scaleX=51
+    I:scaleY=54
+    I:scaleZ=44
+}
+
+
+####################
+# storagecell9
+####################
+
+storagecell9 {
+    I:scaleX=11
+    I:scaleY=8
+    I:scaleZ=8
+}
+
+

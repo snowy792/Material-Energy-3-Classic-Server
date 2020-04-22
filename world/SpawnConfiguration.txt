@@ -1,0 +1,136 @@
+SpawnCap.monster:55
+SpawnCap.creature:6
+SpawnCap.water:1
+SpawnCap.ambient:1
+#
+Creatures.SpawnFrequency:200
+#
+AutoSave:true
+CanEdit:false
+MasterEnabled:false
+#
+master.monster:Witch{8/4/4},Spider{8/4/4},Zombie{8/10/15},SpecialMobs.DesertSpider{8/4/4},SpecialMobs.FishingZombie{8/4/4},SpecialMobs.BlindingEnderman{8/4/4},CaveSpider{8/4/4},Slime{8/4/4},SpecialMobs.AngrySpider{8/4/4},SpecialMobs.SpeedySpider{8/4/4},SpecialMobs.PlagueZombie{8/4/4},SpecialMobs.IcyEnderman{8/4/4},SpecialMobs.GiantSpider{8/4/4},SpecialMobs.ArmorSpider{8/4/4},SpecialMobs.BabySpider{8/4/4},SpecialMobs.GatlingSkeleton{8/4/4},SpecialMobs.MotherSpider{8/4/4},SpecialMobs.HungryZombie{8/4/4},SpecialMobs.PaleSpider{8/4/4},SpecialMobs.PigMount{8/4/4},SpecialMobs.LightningEnderman{8/4/4},SpecialMobs.SpecialSkeleton{8/4/4},SpecialMobs.SpecialSpider{8/4/4},SpecialMobs.ToughSpider{8/4/4},SpecialMobs.QuickSkeleton{8/4/4},SpecialMobs.CursedEnderman{8/4/4},SpecialMobs.PoisonSkeleton{8/4/4},Skeleton{8/4/4},Enderman{8/4/4}
+master.creature:Chicken{8/4/4},Cow{8/4/4},Pig{8/4/4},Sheep{8/4/4}
+master.water:
+master.ambient:
+#
+Beach.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Beach.creature:
+Beach.water:Squid{10/4/4}
+Beach.ambient:Bat{10/8/8}
+#
+Desert.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Desert.creature:
+Desert.water:Squid{10/4/4}
+Desert.ambient:Bat{10/8/8}
+#
+DesertHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+DesertHills.creature:
+DesertHills.water:Squid{10/4/4}
+DesertHills.ambient:Bat{10/8/8}
+#
+Extreme Hills.monster:SpecialMobs.DoomCreeper{8/4/4},SpecialMobs.ArmorCreeper{8/4/4},SpecialMobs.WitchSpider{8/4/4},Witch{8/4/4},SpecialMobs.AncientEnderman{10/4/4},SpecialMobs.ArmorSpider{8/4/4},SpecialMobs.GiantSpider{2/4/4},Zombie{10/4/4},SpecialMobs.SpecialSkeleton{8/4/4}
+Extreme Hills.creature:
+Extreme Hills.water:
+Extreme Hills.ambient:
+#
+Extreme Hills Edge.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Extreme Hills Edge.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Extreme Hills Edge.water:Squid{10/4/4}
+Extreme Hills Edge.ambient:Bat{10/8/8}
+#
+Forest.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Forest.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{5/4/4}
+Forest.water:Squid{10/4/4}
+Forest.ambient:Bat{10/8/8}
+#
+ForestHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+ForestHills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{5/4/4}
+ForestHills.water:Squid{10/4/4}
+ForestHills.ambient:Bat{10/8/8}
+#
+FrozenOcean.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+FrozenOcean.creature:
+FrozenOcean.water:Squid{10/4/4}
+FrozenOcean.ambient:Bat{10/8/8}
+#
+FrozenRiver.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+FrozenRiver.creature:
+FrozenRiver.water:Squid{10/4/4}
+FrozenRiver.ambient:Bat{10/8/8}
+#
+Hell.monster:SpecialMobs.FlyingSpider{100/3/3}
+Hell.creature:
+Hell.water:
+Hell.ambient:
+#
+Ice Mountains.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+Ice Mountains.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Ice Mountains.water:Squid{10/4/4}
+Ice Mountains.ambient:Bat{10/8/8}
+#
+Ice Plains.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+Ice Plains.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Ice Plains.water:Squid{10/4/4}
+Ice Plains.ambient:Bat{10/8/8}
+#
+Jungle.monster:SpecialMobs.BabySpider{25/10/10},SpecialMobs.DirtCreeper{10/4/4},SpecialMobs.DesertSpider{19/4/4},SpecialMobs.PaleSpider{15/4/4},SpecialMobs.AngrySpider{4/4/4},SpecialMobs.MirageEnderman{1/1/1},Zombie{1/4/4},SpecialMobs.GatlingSkeleton{1/4/4},SpecialMobs.SpeedySpider{15/4/4},SpecialMobs.SpitfireSkeleton{1/4/4},Skeleton{1/4/4},SpecialMobs.JockeySpawnProxy{1/4/4},SpecialMobs.CursedEnderman{1/4/4},SpecialMobs.BlindingEnderman{1/4/4},SpecialMobs.SpecialSpider{1/1/1}
+Jungle.creature:Pig{10/4/4},Cow{8/4/4}
+Jungle.water:Squid{1/1/1}
+Jungle.ambient:
+#
+JungleHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Ozelot{2/1/1}
+JungleHills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+JungleHills.water:Squid{10/4/4}
+JungleHills.ambient:Bat{10/8/8}
+#
+MushroomIsland.monster:Blaze{8/4/4},Blizz{8/4/4},CaveSpider{8/4/4},Creeper{8/4/4},Enderman{8/4/4},LavaSlime{8/4/4},Ozelot{8/4/4},PigZombie{8/4/4},Ghast{8/4/4},Silverfish{8/4/4},Skeleton{8/4/4},Slime{8/4/4},SpecialMobs.AncientEnderman{8/4/4},SpecialMobs.AngrySpider{8/4/4},SpecialMobs.AngryZombiePigman{8/4/4},SpecialMobs.ArmorCreeper{8/4/4},SpecialMobs.ArmorSpider{8/4/4},SpecialMobs.BabySpider{8/4/4},SpecialMobs.BlindingEnderman{8/4/4},SpecialMobs.ChargingZombiePigman{8/4/4},SpecialMobs.ConfusingEnderman{8/4/4},SpecialMobs.DeathCreeper{8/4/4},SpecialMobs.PoisonSpider{8/4/4},SpecialMobs.FishingZombiePigman{8/4/4},SpecialMobs.CursedEnderman{8/4/4},SpecialMobs.EnderCreeper{8/4/4},SpecialMobs.DesertSpider{8/4/4},SpecialMobs.DirtCreeper{8/4/4},SpecialMobs.DoomCreeper{8/4/4},SpecialMobs.FireCreeper{8/4/4},SpecialMobs.GatlingSkeleton{8/4/4},SpecialMobs.FishingZombie{8/4/4},SpecialMobs.FireSkeleton{8/4/4},SpecialMobs.FireZombie{8/4/4},SpecialMobs.FlyingSpider{8/4/4},SpecialMobs.GiantSkeleton{8/4/4},SpecialMobs.GiantSpider{8/4/4},SpecialMobs.GiantZombie{8/4/4},SpecialMobs.GiantZombiePigman{8/4/4},SpecialMobs.HungryZombie{8/4/4},SpecialMobs.HungryZombiePigman{8/4/4},SpecialMobs.JockeySpawnProxy{8/4/4},SpecialMobs.MotherSpider{8/4/4},SpecialMobs.IcyEnderman{8/4/4},SpecialMobs.JumpingCreeper{8/4/4},SpecialMobs.LightningEnderman{8/4/4},SpecialMobs.JumpingZombiePigman{8/4/4},SpecialMobs.LightningCreeper{8/4/4},SpecialMobs.MirageEnderman{8/4/4},SpecialMobs.PaleSpider{8/4/4},SpecialMobs.PigMount{8/4/4},SpecialMobs.PlagueZombie{8/4/4},SpecialMobs.PlagueZombiePigman{8/4/4},SpecialMobs.PoisonSkeleton{8/4/4},SpecialMobs.QuickSkeleton{8/4/4},SpecialMobs.SpecialEnderman{8/4/4},SpecialMobs.SmallSpider{8/4/4},SpecialMobs.SpecialCreeper{8/4/4},SpecialMobs.SpecialSkeleton{8/4/4},SpecialMobs.SpecialSpider{8/4/4},SpecialMobs.SpecialZombie{8/4/4},SpecialMobs.SpecialZombiePigman{8/4/4},SpecialMobs.SpeedySpider{8/4/4},SpecialMobs.SpitfireSkeleton{8/4/4},SpecialMobs.SteveZombie{8/4/4},SpecialMobs.StrikeEnderman{8/4/4},SpecialMobs.ThiefSkeleton{8/4/4},SpecialMobs.ToughSpider{8/4/4},SpecialMobs.WitchSpider{8/4/4},Spider{8/4/4},Witch{8/4/4},Zombie{8/4/4}
+MushroomIsland.creature:MushroomCow{8/4/8},Chicken{8/4/4},Cow{8/4/4},EntityHorse{8/4/4},Pig{8/4/4},Sheep{8/4/4},SnowMan{8/4/4},Wolf{8/4/4},VillagerGolem{8/4/4}
+MushroomIsland.water:Squid{8/4/4}
+MushroomIsland.ambient:Bat{10/8/8}
+#
+MushroomIslandShore.monster:
+MushroomIslandShore.creature:MushroomCow{8/4/8}
+MushroomIslandShore.water:
+MushroomIslandShore.ambient:Bat{10/8/8}
+#
+Ocean.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Ocean.creature:
+Ocean.water:Squid{10/4/4}
+Ocean.ambient:Bat{10/8/8}
+#
+Plains.monster:
+Plains.creature:
+Plains.water:
+Plains.ambient:
+#
+River.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+River.creature:
+River.water:Squid{10/4/4}
+River.ambient:Bat{10/8/8}
+#
+Sky.monster:Ghast{100/10/10}
+Sky.creature:
+Sky.water:
+Sky.ambient:
+#
+Storage Cell.monster:Blizz{8/4/4},Blaze{8/4/4}
+Storage Cell.creature:
+Storage Cell.water:
+Storage Cell.ambient:
+#
+Swampland.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{1/1/1},Enderman{1/1/4}
+Swampland.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Swampland.water:Squid{10/4/4}
+Swampland.ambient:Bat{10/8/8}
+#
+Taiga.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+Taiga.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{8/4/4}
+Taiga.water:Squid{10/4/4}
+Taiga.ambient:Bat{10/8/8}
+#
+TaigaHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+TaigaHills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{8/4/4}
+TaigaHills.water:Squid{10/4/4}
+TaigaHills.ambient:Bat{10/8/8}
+#

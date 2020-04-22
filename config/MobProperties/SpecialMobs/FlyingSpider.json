@@ -1,0 +1,64 @@
+{
+	"_name": "SpecialMobs.FlyingSpider",
+	"drops": [],
+	"stats": [
+
+    {
+      "_comment": "if this mob is not spawning in the overworld",
+      "function": "!if_in_dimension_0",
+      "functions": [
+        {
+          "_comment": "double the mob's max health",
+          "function": "modifier",
+          "attribute": "generic.maxHealth",
+          "value": 1,
+          "operator": 1
+        },
+        {
+          "_comment": "randomly boost either attack strength, max health, or speed, with speed being the rarest",
+          "function": "all",
+          "functions": [
+            {
+            
+              "function": "modifier",
+              "attribute": "generic.attackDamage",
+              "value": "200~400"
+            },
+            {
+              
+              "function": "modifier",
+              "attribute": "generic.maxHealth",
+              "value": "9.8~8.0",
+              "operator": 1
+            },
+            {
+              
+              "function": "modifier",
+              "attribute": "generic.movementSpeed",
+              "value": "4~6",
+              "operator": 1
+            }
+          ]
+        },
+        {
+          "_comment": "give them a small chance to drop a gold ingot or an emerald for your trouble",
+          "function": "drops",
+          "functions": [
+            {
+              "_comment": "gold ingot",
+              "function": "add",
+              "id": 266,
+              "count": 0.05
+            },
+            {
+              "_comment": "emerald",
+              "function": "add",
+              "id": 388,
+              "count": 0.01
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

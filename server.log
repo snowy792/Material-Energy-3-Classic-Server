@@ -1,0 +1,59 @@
+2020-04-22 17:41:17 [INFO] Starting minecraft server version 1.6.4
+2020-04-22 17:41:25 [INFO] Loading properties
+2020-04-22 17:41:25 [WARNING] server.properties does not exist
+2020-04-22 17:41:25 [INFO] Generating new properties file
+2020-04-22 17:41:25 [INFO] Default game type: SURVIVAL
+2020-04-22 17:41:25 [INFO] Generating keypair
+2020-04-22 17:41:25 [INFO] Starting Minecraft server on *:25565
+2020-04-22 17:41:29 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2020-04-22 17:41:29 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2020-04-22 17:41:29 [INFO] Preparing level "world"
+2020-04-22 17:41:30 [INFO] Preparing start region for level 0
+2020-04-22 17:41:31 [INFO] Preparing spawn area: 11%
+2020-04-22 17:41:32 [INFO] Preparing spawn area: 27%
+2020-04-22 17:41:33 [INFO] Preparing spawn area: 45%
+2020-04-22 17:41:34 [INFO] Preparing spawn area: 58%
+2020-04-22 17:41:35 [INFO] Preparing spawn area: 73%
+2020-04-22 17:41:36 [INFO] Preparing spawn area: 87%
+2020-04-22 17:41:37 [INFO] Preparing spawn area: 94%
+2020-04-22 17:41:38 [INFO] Done (8.582s)! For help, type "help" or "?"
+2020-04-22 17:42:04 [SEVERE] Reached end of stream for /79.75.229.100
+2020-04-22 17:42:07 [INFO] snowy792[/79.75.229.100:49354] logged in with entity id 4125 at (-162.5, 69.0, 233.5)
+2020-04-22 17:42:07 [INFO] snowy792 joined the game
+2020-04-22 17:42:07 [WARNING] Fetching addPacket for removed entity
+2020-04-22 17:42:07 [WARNING] Fetching addPacket for removed entity
+2020-04-22 17:42:16 [INFO] snowy792 lost connection: disconnect.quitting
+2020-04-22 17:42:16 [INFO] snowy792 left the game
+2020-04-22 17:42:48 [INFO] Stopping the server
+2020-04-22 17:42:48 [INFO] Stopping server
+2020-04-22 17:42:48 [INFO] Saving players
+2020-04-22 17:42:48 [INFO] Saving worlds
+2020-04-22 17:42:48 [INFO] Saving chunks for level 'world'/Overworld
+2020-04-22 17:42:48 [INFO] Closing listening thread
+2020-04-22 17:42:48 [INFO] Saving chunks for level 'world'/Nether
+2020-04-22 17:42:48 [INFO] Saving chunks for level 'world'/The End
+2020-04-22 17:42:48 [INFO] Saving chunks for level 'world'/Underdark
+2020-04-22 17:42:49 [INFO] Stopping server
+2020-04-22 17:43:06 [INFO] Starting minecraft server version 1.6.4
+2020-04-22 17:43:15 [INFO] Loading properties
+2020-04-22 17:43:15 [INFO] Default game type: SURVIVAL
+2020-04-22 17:43:15 [INFO] Generating keypair
+2020-04-22 17:43:15 [INFO] Starting Minecraft server on *:25565
+2020-04-22 17:43:19 [INFO] Preparing level "world"
+2020-04-22 17:43:19 [INFO] Preparing start region for level 0
+2020-04-22 17:43:20 [INFO] Done (1.037s)! For help, type "help" or "?"
+2020-04-22 17:43:24 [SEVERE] Reached end of stream for /79.75.229.100
+2020-04-22 17:43:26 [INFO] snowy792[/79.75.229.100:49400] logged in with entity id 13 at (-427.5, 58.0, 1046.5)
+2020-04-22 17:43:26 [INFO] snowy792 joined the game
+2020-04-22 17:43:42 [INFO] snowy792 lost connection: disconnect.quitting
+2020-04-22 17:43:42 [INFO] snowy792 left the game
+2020-04-22 17:43:47 [INFO] Stopping the server
+2020-04-22 17:43:47 [INFO] Stopping server
+2020-04-22 17:43:47 [INFO] Saving players
+2020-04-22 17:43:47 [INFO] Saving worlds
+2020-04-22 17:43:47 [INFO] Closing listening thread
+2020-04-22 17:43:47 [INFO] Saving chunks for level 'world'/Overworld
+2020-04-22 17:43:47 [INFO] Saving chunks for level 'world'/Nether
+2020-04-22 17:43:47 [INFO] Saving chunks for level 'world'/The End
+2020-04-22 17:43:47 [INFO] Saving chunks for level 'world'/Underdark
+2020-04-22 17:43:47 [INFO] Stopping server

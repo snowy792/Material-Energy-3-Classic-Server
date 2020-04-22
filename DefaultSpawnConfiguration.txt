@@ -1,0 +1,136 @@
+SpawnCap.monster:70
+SpawnCap.creature:15
+SpawnCap.water:5
+SpawnCap.ambient:15
+#
+Creatures.SpawnFrequency:200
+#
+AutoSave:true
+CanEdit:true
+MasterEnabled:false
+#
+master.monster:
+master.creature:
+master.water:
+master.ambient:
+#
+Beach.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Beach.creature:
+Beach.water:Squid{10/4/4}
+Beach.ambient:Bat{10/8/8}
+#
+Desert.monster:Slime{10/4/4},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1}
+Desert.creature:
+Desert.water:Squid{10/4/4}
+Desert.ambient:Bat{10/8/8}
+#
+DesertHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+DesertHills.creature:
+DesertHills.water:Squid{10/4/4}
+DesertHills.ambient:Bat{10/8/8}
+#
+Extreme Hills.monster:Slime{10/4/4},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1}
+Extreme Hills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Extreme Hills.water:Squid{10/4/4}
+Extreme Hills.ambient:Bat{10/8/8}
+#
+Extreme Hills Edge.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Extreme Hills Edge.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Extreme Hills Edge.water:Squid{10/4/4}
+Extreme Hills Edge.ambient:Bat{10/8/8}
+#
+Forest.monster:Slime{10/4/4},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1}
+Forest.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{5/4/4}
+Forest.water:Squid{10/4/4}
+Forest.ambient:Bat{10/8/8}
+#
+ForestHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+ForestHills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{5/4/4}
+ForestHills.water:Squid{10/4/4}
+ForestHills.ambient:Bat{10/8/8}
+#
+FrozenOcean.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+FrozenOcean.creature:
+FrozenOcean.water:Squid{10/4/4}
+FrozenOcean.ambient:Bat{10/8/8}
+#
+FrozenRiver.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+FrozenRiver.creature:
+FrozenRiver.water:Squid{10/4/4}
+FrozenRiver.ambient:Bat{10/8/8}
+#
+Hell.monster:LavaSlime{1/4/4},Ghast{50/4/4},PigZombie{100/4/4}
+Hell.creature:
+Hell.water:
+Hell.ambient:
+#
+Ice Mountains.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+Ice Mountains.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Ice Mountains.water:Squid{10/4/4}
+Ice Mountains.ambient:Bat{10/8/8}
+#
+Ice Plains.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+Ice Plains.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Ice Plains.water:Squid{10/4/4}
+Ice Plains.ambient:Bat{10/8/8}
+#
+Jungle.monster:Slime{10/4/4},Ozelot{2/1/1},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1}
+Jungle.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Jungle.water:Squid{10/4/4}
+Jungle.ambient:Bat{10/8/8}
+#
+JungleHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Ozelot{2/1/1}
+JungleHills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+JungleHills.water:Squid{10/4/4}
+JungleHills.ambient:Bat{10/8/8}
+#
+MushroomIsland.monster:
+MushroomIsland.creature:MushroomCow{8/4/8}
+MushroomIsland.water:
+MushroomIsland.ambient:Bat{10/8/8}
+#
+MushroomIslandShore.monster:
+MushroomIslandShore.creature:MushroomCow{8/4/8}
+MushroomIslandShore.water:
+MushroomIslandShore.ambient:Bat{10/8/8}
+#
+Ocean.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+Ocean.creature:
+Ocean.water:Squid{10/4/4}
+Ocean.ambient:Bat{10/8/8}
+#
+Plains.monster:Slime{10/4/4},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1}
+Plains.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},EntityHorse{5/2/6}
+Plains.water:Squid{10/4/4}
+Plains.ambient:Bat{10/8/8}
+#
+River.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4}
+River.creature:
+River.water:Squid{10/4/4}
+River.ambient:Bat{10/8/8}
+#
+Sky.monster:Enderman{1/1/4}
+Sky.creature:
+Sky.water:
+Sky.ambient:
+#
+Storage Cell.monster:Blizz{4/1/3}
+Storage Cell.creature:
+Storage Cell.water:
+Storage Cell.ambient:
+#
+Swampland.monster:Slime{1/1/1},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1}
+Swampland.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4}
+Swampland.water:Squid{10/4/4}
+Swampland.ambient:Bat{10/8/8}
+#
+Taiga.monster:Slime{10/4/4},Creeper{10/4/4},Enderman{1/1/4},Skeleton{10/4/4},Spider{10/4/4},Zombie{10/4/4},SpecialMobs.JockeySpawnProxy{1/1/1},Blizz{4/1/3}
+Taiga.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{8/4/4}
+Taiga.water:Squid{10/4/4}
+Taiga.ambient:Bat{10/8/8}
+#
+TaigaHills.monster:Spider{10/4/4},Zombie{10/4/4},Skeleton{10/4/4},Creeper{10/4/4},Slime{10/4/4},Enderman{1/1/4},Blizz{4/1/3}
+TaigaHills.creature:Sheep{12/4/4},Pig{10/4/4},Chicken{10/4/4},Cow{8/4/4},Wolf{8/4/4}
+TaigaHills.water:Squid{10/4/4}
+TaigaHills.ambient:Bat{10/8/8}
+#
